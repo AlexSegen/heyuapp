@@ -24,7 +24,7 @@ module.exports = {
   /*
   ** Customize your css
   */  
- router: { base: '/heyuapp/' },
+ router: { base: 'https://alexsegen.github.io/heyuapp/' },
   /*
   ** Customize the progress bar color
   */
