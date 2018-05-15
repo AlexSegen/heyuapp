@@ -153,7 +153,7 @@
           <div class="row">
             <div class="col-md-8 col-md-offset-2">
               <div class="section-content">  
-                  <img src="assets/img/app-logo.png" class="img-responsive center-block app-logo">
+                  <img src="~/assets/img/app-logo.png" class="img-responsive center-block app-logo">
                   <h2 class="title text-center">Descarga HeyU ahora<span>.</span></h2>
                   <p class="description text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
                   <br><a href="#!"><img src="~/assets/img/playstore-logo.png" class="img-responsive center-block"></a>
