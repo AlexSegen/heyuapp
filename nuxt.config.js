@@ -14,11 +14,11 @@ module.exports = {
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Lato:300,400,900' },
     ],
     script:[
-      {src:'/js/jquery.min.js'},
-      {src:'/js/bootstrap.min.js'},
-      {src:'/js/smooth-scroll.min.js'},
-      {src:'/js/wow.min.js'},
-      {src:'/js/app.js'}
+      {src:'js/jquery.min.js'},
+      {src:'js/bootstrap.min.js'},
+      {src:'js/smooth-scroll.min.js'},
+      {src:'js/wow.min.js'},
+      {src:'js/app.js'}
       ]
   },
   /*
