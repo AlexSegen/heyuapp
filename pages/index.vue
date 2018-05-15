@@ -148,7 +148,20 @@
       </section>
 
       <my-subs/>
-
+      <section class="section-layer wow fadeIn animated" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeIn;" id='download'>
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <div class="section-content">  
+                  <img src="assets/img/app-logo.png" class="img-responsive center-block app-logo">
+                  <h2 class="title text-center">Descarga HeyU ahora<span>.</span></h2>
+                  <p class="description text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                  <br><a href="#!"><img src="~/assets/img/playstore-logo.png" class="img-responsive center-block"></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       <my-footer/>
 
   </div>
